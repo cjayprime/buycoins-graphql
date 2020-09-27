@@ -1,0 +1,4 @@
+enum TradeType{
+    buy
+    sell
+}

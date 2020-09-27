@@ -1,0 +1,3 @@
+type Query {
+    calculatePrice(type: TradeType!, margin: Float!, exchangeRate: Float): Float!
+}
