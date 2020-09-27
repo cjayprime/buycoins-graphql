@@ -6,7 +6,6 @@ import schema from './schema';
 
 
 dotenv.config();
-// const isDev = process.env.NODE_ENV === 'development';
 const port = process.env.PORT || 9000;
 
 const typeDefs = gql`
