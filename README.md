@@ -32,7 +32,7 @@ You're going to create a GraphQL API with one query. The query `calculatePrice` 
 
 
 ## About The Solution
-The app is deployed [here](https://**.herokuapp.com/graphql) (https://**.herokuapp.com/graphql)
+The app is deployed [here](https://**.herokuapp.com/graphql) (https://buycoins-challenge.herokuapp.com/graphql)
 
 # To Run The Test Follow These Steps:
 1. ``yarn start``
